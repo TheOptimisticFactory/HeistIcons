@@ -15,12 +15,12 @@
     <Reference Include="System.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <None Update="Textures\HeistIconAtlas.json">
+    <None Update="textures\HeistIconAtlas.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Textures\HeistIconAtlas.png">
+    <Content Include="textures\HeistIconAtlas.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
